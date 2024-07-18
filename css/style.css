@@ -10,7 +10,7 @@
 }
 
 .card {
-  position: relative;
+  margin-top: 20vh;
   width: 320px;
   height: 497px;
   background-color: white;
@@ -52,6 +52,5 @@
 }
 
 .attribution {
-  position: absolute;
-  bottom: 0px;
+  margin-top: 20vh;
 }
